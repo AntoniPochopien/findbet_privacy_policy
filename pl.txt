@@ -1,0 +1,60 @@
+Polityka Prywatności Aplikacji Mobilnej Findbet
+
+1. Wprowadzenie
+
+Niniejsza Polityka Prywatności określa zasady przetwarzania danych osobowych użytkowników aplikacji mobilnej Findbet. Dbamy o prywatność naszych użytkowników i zobowiązujemy się do ochrony ich danych osobowych zgodnie z obowiązującymi przepisami prawa, w tym RODO.
+
+2. Administrator Danych
+
+Administratorem danych osobowych jest Antoni Pochopień, dostępny pod adresem e-mail: support@findbet.pl.
+
+3. Zbierane Dane Osobowe
+
+Zbieramy następujące dane osobowe użytkowników:
+
+Adres e-mail
+Numer telefonu
+Dane płatnicze (obsługiwane przez Stripe)
+4. Sposób Zbierania Danych
+
+Dane osobowe są zbierane przez formularze rejestracyjne dostępne w aplikacji.
+
+5. Cel Zbierania Danych
+
+Zbierane dane osobowe są wykorzystywane w następujących celach:
+
+Numer telefonu: w celu zniwelowania liczby oszustów.
+Adres e-mail: w celu rejestracji użytkownika na platformie.
+6. Udostępnianie Danych
+
+Dane osobowe mogą być udostępniane następującym podmiotom trzecim:
+
+Stripe: w celu realizacji płatności, gdy użytkownik sprzedaje produkty na platformie. W takim przypadku dane płatnicze użytkownika są przekazywane do Stripe.
+7. Bezpieczeństwo Danych
+
+Stosujemy odpowiednie środki techniczne i organizacyjne, aby zapewnić ochronę danych osobowych użytkowników. Hasła są szyfrowane.
+
+8. Prawa Użytkowników
+
+Użytkownicy mają prawo do:
+
+Dostępu do swoich danych osobowych.
+Poprawienia swoich danych osobowych.
+Usunięcia swojego konta oraz danych osobowych.
+W celu realizacji tych praw, prosimy o kontakt pod adresem e-mail: support@findbet.pl.
+
+9. Zgodność z RODO
+
+Przetwarzanie danych osobowych użytkowników odbywa się zgodnie z Rozporządzeniem Ogólnym o Ochronie Danych (RODO).
+
+10. Zmiany w Polityce Prywatności
+
+O wszelkich zmianach w Polityce Prywatności będziemy informować użytkowników mailowo.
+
+11. Pliki Cookie i Technologie Śledzące
+
+Aplikacja korzysta z plików cookie oraz Google Analytics w celu analizy aktywności użytkowników na platformie.
+
+Kontakt
+
+W przypadku pytań dotyczących niniejszej Polityki Prywatności, prosimy o kontakt pod adresem e-mail: support@findbet.pl.
