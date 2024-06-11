@@ -1,0 +1,60 @@
+Privacy Policy for Findbet Mobile Application
+
+1. Introduction
+
+This Privacy Policy outlines the principles for processing the personal data of users of the Findbet mobile application. We care about the privacy of our users and are committed to protecting their personal data in accordance with applicable laws, including the GDPR.
+
+2. Data Controller
+
+The data controller is Antoni Pochopień, available at the email address: support@findbet.pl.
+
+3. Collected Personal Data
+
+We collect the following personal data from users:
+
+Email address
+Phone number
+Payment data (handled by Stripe)
+4. Method of Data Collection
+
+Personal data is collected through registration forms available in the application.
+
+5. Purpose of Data Collection
+
+The collected personal data is used for the following purposes:
+
+Phone number: to reduce the number of fraudsters.
+Email address: to register the user on the platform.
+6. Data Sharing
+
+Personal data may be shared with the following third parties:
+
+Stripe: for payment processing when the user sells products on the platform. In this case, the user's payment data is transferred to Stripe.
+7. Data Security
+
+We implement appropriate technical and organizational measures to ensure the protection of users' personal data. Passwords are encrypted.
+
+8. User Rights
+
+Users have the right to:
+
+Access their personal data.
+Correct their personal data.
+Delete their account and personal data.
+To exercise these rights, please contact us at the email address: support@findbet.pl.
+
+9. GDPR Compliance
+
+The processing of users' personal data is carried out in accordance with the General Data Protection Regulation (GDPR).
+
+10. Changes to the Privacy Policy
+
+We will inform users of any changes to the Privacy Policy via email.
+
+11. Cookies and Tracking Technologies
+
+The application uses cookies and Google Analytics to analyze user activity on the platform.
+
+Contact
+
+For questions regarding this Privacy Policy, please contact us at the email address: support@findbet.pl.
